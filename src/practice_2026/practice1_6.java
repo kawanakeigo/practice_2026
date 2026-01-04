@@ -19,5 +19,23 @@ public class practice1_6 {
 		
 		System.out.println("完了");
 		
+		int dayOfWeek =2;
+		
+		switch(dayOfWeek) {
+		case 1:
+			System.out.println("月曜");
+			break;
+		
+		case 2:
+			System.out.println("火曜日");
+			break;
+		
+		default:
+			System.out.println("そのほかの曜日");
+			break;
+		}
+		
 	}
+	
+	
 }
