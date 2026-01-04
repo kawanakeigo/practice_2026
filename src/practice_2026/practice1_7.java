@@ -10,5 +10,8 @@ public class practice1_7 {
 			n +=1;
 		}
 		
+		for(int m=1; m<=100; m++) {
+			System.out.println(m);
+		}
 	}
 }
